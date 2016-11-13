@@ -1,4 +1,4 @@
-# Dogmon - Webcam-based monitoring script
+# Dogmon - Webcam based monitoring script
 
 ## Purpose
 For monitoring what dogs do while people are away.
